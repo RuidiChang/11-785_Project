@@ -4,7 +4,7 @@ Team 50 Project 47
 
 
 ## Table of contents
-* [Abstract](#general-info)
+* [Abstract](#abstract)
 * [Technologies](#technologies)
 * [Status](#status)
 * [Dataset](#dataset)
