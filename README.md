@@ -8,7 +8,7 @@ Team 50 Project 47
 * [Technologies](#technologies)
 * [Status](#status)
 * [Dataset](#dataset)
-* [Resnet 34](#resnet 34)
+* [Resnet 34](#resnet34)
 * [ResNet With Additional Linear Layers](resnet with additional linear layers)
 * [VGG 19](#vgg 19)
 * [Contact](#contact)
