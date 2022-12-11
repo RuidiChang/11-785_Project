@@ -8,9 +8,7 @@ Team 50 Project 47
 * [Technologies](#technologies)
 * [Status](#status)
 * [Dataset](#dataset)
-* [Resnet 34](#resnet_34)
-* [ResNet With Additional Linear Layers](resnet with additional linear layers)
-* [VGG 19](#vgg 19)
+* [Content](#content)
 * [Contact](#contact)
 
 
@@ -42,6 +40,8 @@ Project is: to be continued.
 
 ## Dataset
 Project was created using the dataset from https://susanqq.github.io/UTKFace/.
+
+## Content
 
 ## Resnet 34
 The implementation could be found in VGG Model.ipynb, it downloads the pretrained ResNet34 Model. It runs on colab and download the dataset from kaggle, making simple EDAs, training and output statistics logs, uploading the file onto colab and run be sequence of the code blocks should produce relevant output. 
