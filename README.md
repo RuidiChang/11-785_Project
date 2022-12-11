@@ -10,7 +10,7 @@ Team 50 Project 47
 * [Dataset](#dataset)
 * [Contact](#contact)
 
-## General info
+## Abstract
 Human facial recognition has grown to be an important topic in deep learning field.
 There is much different research about different aspects of analyzing human face
 and the applications of these deep learning models are widely used in the daily life
@@ -45,4 +45,4 @@ The implementation could be found in ResNet_AdditionalLayer.ipynb, it is built o
 ## Contact
 Created by Team 50.
 Team Member:
-Ruidi Chang, CHenxu Wang, Yuanqing Chen, Yufan Lu.
+Ruidi Chang, Chenxu Wang, Yuanqing Chen, Yufan Lu.
