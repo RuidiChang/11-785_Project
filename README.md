@@ -8,7 +8,11 @@ Team 50 Project 47
 * [Technologies](#technologies)
 * [Status](#status)
 * [Dataset](#dataset)
+* [Resnet 34](#Resnet 34)
+* [ResNet With Additional Linear Layers](#ResNet With Additional Linear Layers)
+* [VGG 19](#VGG 19)
 * [Contact](#contact)
+
 
 ## Abstract
 Human facial recognition has grown to be an important topic in deep learning field.
@@ -39,8 +43,14 @@ Project is: to be continued.
 ## Dataset
 Project was created using the dataset from https://susanqq.github.io/UTKFace/.
 
+## Resnet 34
+The implementation could be found in VGG Model.ipynb, it downloads the pretrained ResNet34 Model. It runs on colab and download the dataset from kaggle, making simple EDAs, training and output statistics logs, uploading the file onto colab and run be sequence of the code blocks should produce relevant output. 
+
 ## ResNet With Additional Linear Layers
-The implementation could be found in ResNet_AdditionalLayer.ipynb, it is built on top of the baseline ResNet34 model, it runs on colab and download the dataset from kaggle, making simple EDAs, training and output statistics logs, uploading the file onto colab and run be sequence of the code blocks should produce relevant output. 
+The implementation could be found in ResNet_AdditionalLayer.ipynb, it is built on top of the baseline ResNet34 model, it runs on colab and download the dataset from kaggle, making simple EDAs, training and output statistics logs, uploading the file onto colab and run be sequence of the code blocks should produce relevant output.
+
+## VGG 19
+The implementation could be found in VGG Model.ipynb, it downloads the pretrained VGG 19 Model. It runs on colab and download the dataset from kaggle, making simple EDAs, training and output statistics logs, uploading the file onto colab and run be sequence of the code blocks should produce relevant output. 
 
 ## Contact
 Created by Team 50.
