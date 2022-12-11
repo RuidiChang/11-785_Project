@@ -37,7 +37,7 @@ Technologies used:
 Project is: to be continued.
 
 ## Dataset
-Project was created using the dataset from https://www.kaggle.com/datasets/jangedoo/utkface-new.
+Project was created using the dataset from https://susanqq.github.io/UTKFace/.
 
 ## ResNet With Additional Linear Layers
 The implementation could be found in ResNet_AdditionalLayer.ipynb, it is built on top of the baseline ResNet34 model, it runs on colab and download the dataset from kaggle, making simple EDAs, training and output statistics logs, uploading the file onto colab and run be sequence of the code blocks should produce relevant output. 
